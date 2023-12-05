@@ -1,1 +1,2 @@
 enefit.ipynb filter=lfs diff=lfs merge=lfs -text
+predict-energy-behavior-of-prosumers/*.csv filter=lfs diff=lfs merge=lfs -text
